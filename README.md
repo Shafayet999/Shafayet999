@@ -44,6 +44,8 @@ I am disciplined, self-motivated, and always eager to learn new technologies.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafayet999&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayet999&layout=compact&theme=vision-friendly-dark)
+
 
 ---
 
