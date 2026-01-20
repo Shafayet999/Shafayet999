@@ -71,7 +71,7 @@ I am disciplined, self-motivated, and always eager to learn new technologies.
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/shafayet-hossain-shafin-15a15b3a2/">
+  <a href="https://www.linkedin.com/in/shafayet-hossain-shafin/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
