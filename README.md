@@ -21,6 +21,28 @@ I am a passionate Frontend Web Developer with hands-on experience in building cl
 I enjoy working with modern JavaScript frameworks and continuously improving my problem-solving and UI development skills.  
 I am disciplined, self-motivated, and always eager to learn new technologies.
 
+
+### 🚀 Featured Projects
+
+#### 1. Authentication System | Firebase-based Assignment Tracker
+- **Key Features:** Designed a fully **Responsive Dashboard** interface with Tailwind CSS, optimizing user experience across all devices.
+- **Tech Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+- [🔗 Live Link](https://assignment-9-a6755.web.app/)
+
+---
+
+#### 2. Food Lovers Hub | Dynamic Food Portfolio Platform
+- **Key Features:** Enhanced visual engagement by incorporating **Smooth Scroll Animations** and a clean, modern UI design.
+- **Tech Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- [🔗 Live Link](https://assignment-10-6a5ea.web.app/)
+
+---
+
+#### 3. Style Decor | Interior Design E-commerce App
+- **Key Features:** Integrated **Secure Authentication** and data storage using MongoDB Atlas for reliable user account management.
+- **Tech Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-47A248?logo=mongodb&logoColor=white)
+- [🔗 Live Link](https://styledecor-f8343.web.app/)
+
 ---
 
 ## 🚀 Current Activities
@@ -28,31 +50,7 @@ I am disciplined, self-motivated, and always eager to learn new technologies.
 - 📚 Improving frontend architecture and best practices
 - 🧠 Practicing problem-solving and clean code writing
 
-### 🚀 Featured Projects
 
-🚀 Featured Projects
-1. Authentication System | Firebase-based Assignment Tracker
-Key Features: Designed a fully Responsive Dashboard interface with Tailwind CSS, optimizing user experience across all devices.
-
-Tech Stack:
-
-🔗 Live Link
-
-2. Food Lovers Hub | Dynamic Food Portfolio Platform
-Key Features: Enhanced visual engagement by incorporating Smooth Scroll Animations and a clean, modern UI design.
-
-Tech Stack:
-
-🔗 Live Link
-
-3. Style Decor | Interior Design E-commerce App
-Key Features: Integrated Secure Authentication and data storage using MongoDB Atlas for reliable user account management.
-
-Tech Stack:
-
-🔗 Live Link
-
-## 🛠️ Skills
 
 ### Frontend
 <p>
