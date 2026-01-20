@@ -42,6 +42,8 @@ I am disciplined, self-motivated, and always eager to learn new technologies.
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafayet999&show_icons=true&theme=radical)
+
 
 ---
 
