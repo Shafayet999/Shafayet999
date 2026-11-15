@@ -208,30 +208,7 @@ export const developer = {
 
 ---
 
-## 📊 Live GitHub Telemetry & Analytics
 
-<div align="center">
-
-<p>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Shafayet999&show_icons=true&hide_border=false&bg_color=0D1117&border_color=1E293B&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1" alt="Shafayet's GitHub Stats" />
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Shafayet999&background=0D1117&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=F472B6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayet999&layout=compact&hide_border=false&bg_color=0D1117&border_color=1E293B&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages" />
-</p>
-
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafayet999&bg_color=0D1117&color=38BDF8&line=818CF8&point=F472B6&area=true&hide_border=false&border_color=1E293B" width="95%" alt="Contribution Graph" />
-
-<br/><br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Shafayet999&theme=tokyonight&no-bg=true&no-frame=false&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
-
-</div>
-
----
 
 <!-- Animated Cyber Footer Wave -->
 <div align="center">
