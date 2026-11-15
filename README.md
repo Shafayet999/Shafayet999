@@ -4,9 +4,7 @@
 <!-- Banner Image -->
 <!-- ===================== -->
 
-<p align="center">
-  <img src="https://i.ibb.co.com/fG2M9yq3/Chat-GPT-Image-Dec-31-2025-04-18-35-PM.png" alt="Banner" />
-</p>
+
 
 <!-- ===================== -->
 <!-- Name & Designation -->
